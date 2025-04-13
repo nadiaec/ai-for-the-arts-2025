@@ -7,7 +7,7 @@ This portfolio has been split into 3 Python Notebooks
 2. labs_part3.ipynb covers the Machine Learning Section of the lab book.
 3. labs_part4.ipynb covers Part 4: Your Creative Design.
 
-#### GOALS
+## GOALS for this Portfolio
 - Learn Github Basics.
 - Be familiar with reading languages like python.
 - Understand basic programming concepts.

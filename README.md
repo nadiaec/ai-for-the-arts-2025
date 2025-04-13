@@ -1,4 +1,4 @@
-# AI for the Arts and Humanities Portfolio
+# AI for the Arts and Humanities Portfolio - 2654489C
 The purpose of this repository is to showcase all the work I have completed over the AI course.
 
 ## Portfolio Structure
@@ -12,5 +12,4 @@ This portfolio has been split into 3 Python Notebooks
 - Be familiar with reading languages like python.
 - Understand basic programming concepts.
 
-2654489
 

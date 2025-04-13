@@ -5,7 +5,7 @@ The purpose of this repository is to showcase all the work I have completed over
 This portfolio has been split into 3 Python Notebooks
 1. labs_part1&2.ipynb covers all lab tasks in Part 1 and 2.
 2. labs_part3.ipynb covers the Machine Learning Section of the lab book.
-3. labs_part4.ipynb covers Part 4: Your Creative Design.
+3. labs_part4.ipynb covers Part 4: My Creative Design.
 
 ## GOALS for this Portfolio
 - Learn Github Basics.

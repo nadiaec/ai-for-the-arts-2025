@@ -8,8 +8,6 @@ This portfolio has been split into 3 Python Notebooks
 3. labs_part4.ipynb covers Part 4: My Creative Design.
 
 ## GOALS for this Portfolio
-- Learn Github Basics.
-- Be familiar with reading languages like python.
-- Understand basic programming concepts.
+My goals for this portfolio are to learn the basics of GitHub, become more familiar with reading programming languages like Python, and develop an understanding of fundamental programming concepts. Through this process, I hope to build a solid foundation in using Github Codespaces and version control that I can apply to future projects and coursework.
 
 
